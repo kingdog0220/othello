@@ -27,3 +27,5 @@ This project was developed using:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests.
+
+All modifications were made by Cline based solely on my instructions. This document was also created by Cline. I have not made any changes.
