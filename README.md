@@ -20,9 +20,7 @@ This project was developed using:
 ## How to Run
 
 1.  Clone the repository.
-2.  Create a virtual environment: `python -m venv venv`
-3.  Activate the virtual environment: `venv\Scripts\activate`
-4.  Run the game: `python othello_ui.py`
+2.  Run the game: `python othello_ui.py`
 
 ## Contributing
 
